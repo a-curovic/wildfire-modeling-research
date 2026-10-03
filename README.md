@@ -65,10 +65,6 @@ python 09_final_test.py
 
 For `06_preprocessing_screen.py`, set `STAGE` to `sampler_screen` first and then to `imputer_screen` after selecting the imbalance methods to carry forward.
 
-## Methodology report
-
-[`docs/California_Wildfire_Methodology_Report_2026-08-04.pdf`](docs/California_Wildfire_Methodology_Report_2026-08-04.pdf) documents the main methodological redevelopment through 4 August 2026. At that point final tuning, calibration, and the frozen test evaluation were still pending, so the later scripts in this repository continue beyond the report's cutoff date.
-
 ## Earlier version
 
 The original seasonal LightGBM study was presented at CAC'26 and accepted for publication with Springer Nature. I have not kept the old Spring/Summer/Fall/Winter training scripts in this repository because the code here is meant to represent the updated methodology rather than every exploratory version of the project.
