@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data and generated outputs
+data/raw/**
+data/interim/**
+data/processed/**
+!data/README.md
+artifacts/
+cache/
+*.joblib
+*.pkl
+*.pickle
+
+# Large geospatial / raster files
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

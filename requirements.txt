@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.6
+lightgbm
+imbalanced-learn
+joblib
+geopandas
+shapely
+rasterio
+boto3
+openpyxl
+fiona
